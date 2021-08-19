@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on rewriting a legacy Windows Form App to Angular & .Net Core API
 
-- 🌱 I’m currently learning Angular
-
 - 💬 Ask me about ANYTHING. I will try my best to answer :)
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/queencykoh)
