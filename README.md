@@ -4,7 +4,7 @@
 **queency-koh/queency-koh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭  I magically turn coffee into code
+- 🔭  Exploring the endless
 
 - 💬  Ask me about ANYTHING. I will try my best to answer :)
 
